@@ -1,3 +1,5 @@
 # desafio-netflix
 
+Reproduçõa da tela inicial do site da Netflix.
+Desafio:
 Fiz a inserção dos botões "mais informações" e "assistir agora" para redirecionamento do link em uma nova aba do navegador.
